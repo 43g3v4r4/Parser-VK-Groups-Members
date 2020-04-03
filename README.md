@@ -1,5 +1,4 @@
-#Parser-VK-Groups-Members
-
+# Parser-VK-Groups-Members
 Парсер пользователей из сообществ Вконтакте
 
 ### Файл groupID.txt.txt - список ссылок на сообщества
